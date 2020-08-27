@@ -1,5 +1,9 @@
-package server
+package main
 
 import (
-	pb "github.com/YuliaParshkova/Lec5/server/proto/consignment"
+	pb "github.com/YuliaParshkova/Lec5/tree/master/server/proto/consignment"
 )
+
+func main(){
+
+}
